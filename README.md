@@ -85,8 +85,7 @@ You can also document commands to lint the code or run tests. These steps help t
 
 ## Authors and acknowledgment
 Show your appreciation to those who have contributed to the project.
-
-Member name: Jimmy Zhang
+Name: Jimmy Zhang
 ## License
 For open source projects, say how it is licensed.
 
